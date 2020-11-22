@@ -23,6 +23,6 @@ Disclaimer:
 
 Data Schema:
 
-https://postimg.cc/5XSvRYHX
+[image](https://postimg.cc/5XSvRYHX)
 
 
