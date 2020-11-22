@@ -24,5 +24,6 @@ Disclaimer:
 Data Schema:
 
 [image](https://postimg.cc/5XSvRYHX)
+[ScreenShot](https://github.com/datacharmer/test_db/blob/master/images/employees.jpg)
 
 
