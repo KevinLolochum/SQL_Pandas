@@ -23,4 +23,6 @@ Disclaimer:
 
 Data Schema:
 
+https://postimg.cc/5XSvRYHX
+
 
