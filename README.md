@@ -23,6 +23,6 @@ Disclaimer:
 
 Data Schema:
 
-[image](https://postimg.cc/5XSvRYHX)
+[image](https://{https://github.com/datacharmer/test_db/blob/master/images/employees.jpg})
 
 
