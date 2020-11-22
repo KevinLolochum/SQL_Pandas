@@ -17,7 +17,7 @@ Data info:
 - California, 94105, USA.
 
 Disclaimer:
-- To the best of our knowledge, this data is fabricated, and
+- To the best of my knowledge, this data is fabricated, and
 - it does not correspond to real people. 
 - Any similarity to existing people is purely coincidental.
 
