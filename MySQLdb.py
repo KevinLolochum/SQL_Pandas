@@ -1,5 +1,4 @@
 import mysql.connector as mysql
-import pandas as pd
 import csv
 import datetime
 
