@@ -1,6 +1,6 @@
 ## SQL, Pandas and Excel Utilities
 
-This repo is for comparing SQL queries and pandas methods/functions and utilities.
+This repo is for comparing SQL queries and pandas methods/functions and some excel utilities.
 
 
 ##### Creating and querying a simple MySQL table using Python and Excel
